@@ -27,6 +27,7 @@ Available packages:
 - Make
 - Git
 - OpenSSH
+- POSIX (UTF-8) locale
 
 Instructions for update (for self-reference):
 
