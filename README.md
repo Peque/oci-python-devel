@@ -2,7 +2,7 @@ docker-python-devel
 ===================
 
 A Docker image for Python development based on Fedora. Not the slimmest image,
-but very convenient when working with Python, CI and Tox.
+but very convenient when working with Python, CI, Tox and Pipenv.
 
 You can pull the image from Docker Hub:
 
@@ -13,6 +13,7 @@ peque/python-devel
 Available packages:
 
 - Tox
+- Pipenv
 - Python 2.7
 - Python 3.4
 - Python 3.5

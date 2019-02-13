@@ -4,5 +4,6 @@ RUN dnf update -y \
         gcc \
         gcc-c++ \
         git \
+        pipenv \
         python3-tox \
     && dnf clean all
