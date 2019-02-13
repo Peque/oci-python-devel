@@ -24,6 +24,8 @@ Available packages:
 - Python headers
 - GCC (with C++ support)
 - Make
+- Git
+- OpenSSH
 
 Instructions for update (for self-reference):
 
