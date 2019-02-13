@@ -1,18 +1,18 @@
-docker-multi-python
+docker-python-devel
 ===================
 
-A Docker image for Python development based on Ubuntu.
+A Docker image for Python development based on Fedora.
 
 You can pull the image from Docker Hub:
 
 ```
-peque/docker-multi-python
+peque/python-devel
 ```
 
 Instructions for update (for self-reference):
 
 ```bash
-docker build --pull -t peque/docker-multi-python .
+docker build --pull -t peque/python-devel .
 docker login --username=peque
-docker push peque/docker-multi-python
+docker push peque/python-devel
 ```
