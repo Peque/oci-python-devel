@@ -28,6 +28,7 @@ Available packages:
 - Git
 - OpenSSH
 - POSIX (UTF-8) locale
+- Utils: `which`, `curl`, `wget`
 
 Instructions for update (for self-reference):
 
