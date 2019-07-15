@@ -4,6 +4,7 @@ ENV LANG C.UTF-8
 
 RUN dnf update -y \
     && dnf install -y \
+        conda \
         curl \
         gcc \
         gcc-c++ \
