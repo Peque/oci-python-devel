@@ -1,8 +1,8 @@
 docker-python-devel
 ===================
 
-A Docker image for Python development based on Fedora. Not the slimmest image,
-but very convenient when working with Python, CI, Tox, Conda, Poetry and
+A Docker image for Python development based on Fedora 30. Not the slimmest
+image, but very convenient when working with Python, CI, Tox, Conda, Poetry and
 Pipenv.
 
 You can pull the image from Docker Hub:
