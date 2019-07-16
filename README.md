@@ -30,6 +30,7 @@ Available packages:
 - Make
 - Git
 - OpenSSH
+- bzip2
 - POSIX (UTF-8) locale
 - Utils: `which`, `curl`, `wget`
 
